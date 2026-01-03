@@ -16,7 +16,7 @@ body {
 }
 
 .header {
-  background-color: #ff5350;
+  background-color: #E60013;
   color: white;
   padding: 1rem 2rem;
   display: flex;
@@ -53,7 +53,7 @@ body {
 .pagination-btn button {
   padding: 10px 25px;
   font-size: 1rem;
-  background-color: #ff5350;
+  background-color: #E60013;
   color: white;
   border: none;
   border-radius: 5px;
@@ -62,7 +62,7 @@ body {
 }
 
 .pagination-btn button:hover {
-  background-color: #e04441;
+  background-color: #da6260;
 }
 
 .pagination-btn button:disabled {
